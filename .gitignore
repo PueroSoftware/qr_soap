@@ -1,4 +1,8 @@
 node_modules/
 dist/
 *.log
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 1bdd888 (Primera subida de mi proyecto QR SOAP)
